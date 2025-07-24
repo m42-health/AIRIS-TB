@@ -49,6 +49,9 @@ Below we evaluate the AIRIS-TB model on publicly available datasets using a safe
 
 ---
 
+## License
+This project is licensed under CC BY-NC-4.0 - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Contact
 
 For any questions feel free to reach out at prateekmunjal31@gmail.com  or pmunjal@m42.ae
