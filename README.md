@@ -1,4 +1,4 @@
-# AIRIS-TB: Population TB Screening on a Scale of 1M+ CXRs
+# AIRIS-TB: Population TB Screening on a Scale of Over 1 Million Chest X-Rays
 ---
 This repository host the codebase related to the study: **"Population-scale Cross-sectional Observational Study for AI-powered TB Screening on One Million CXRs"** [(Link to Manuscript)](https://www.nature.com/articles/s41746-025-01832-7)
 
