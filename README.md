@@ -53,4 +53,20 @@ Below we evaluate the AIRIS-TB model on publicly available datasets using a safe
 
 For any questions feel free to reach out at prateekmunjal31@gmail.com  or pmunjal@m42.ae
 
+## Citation
+
+```bibtex
+@article{Munjal2025,
+  author  = {Munjal, Prateek and Al Mahrooqi, Ahmed and Rajan, Ronnie and Jeremijenko, Andrew and Ahmad, Iftikhar and Akhtar, Muhammad Imran and Pimentel, Marco A. F. and Khan, Shadab},
+  title   = {Population‑scale cross‑sectional observational study for AI‑powered TB screening on one million CXRs},
+  journal = {npj Digital Medicine},
+  volume  = {8},
+  number  = {1},
+  pages   = {418},
+  year    = {2025},
+  doi     = {10.1038/s41746-025-01832-7},
+  url     = {https://doi.org/10.1038/s41746-025-01832-7}
+}
+```
+
 ---
